@@ -44,7 +44,10 @@ You are an assistant that extracts structured search parameters from location-ba
 Extract and return:
 - "amenity" (optional)
 - "location"
-- "radius" in meters (default 2000)
+- "
+
+
+" in meters (default 2000)
 - "housing_type" (e.g., kutcha, pucca, semi_Pucca) [optional]
 - "lulc" (e.g., Cropland, Built-up) [optional]
 
@@ -78,7 +81,7 @@ Query: {question}
         parsed = json.loads(json_match.group())
         amenity = str(parsed.get("amenity", "")).strip()
         location = str(parsed.get("location", "")).strip()
-        radius = int(parsed.get("radius", 2000))
+        radius = min(radius, 1000)
         housing_type_raw = str(parsed.get("housing_type", "")).lower().strip()
         housing_type_map = {
             "pucca": "pucca",
