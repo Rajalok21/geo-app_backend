@@ -1,15 +1,22 @@
+import os
+import google.generativeai as genai
 import osmnx as ox
 import geopandas as gpd
 import pandas as pd
 import re
 import json
 from shapely.geometry import Point
-from huggingface_hub import InferenceClient
+from dotenv import load_dotenv
 
-# ========= Initial Setup ========= #
+# ======== Setup ========
+load_dotenv()
+genai.configure(api_key=os.getenv("key"))
+
+model = genai.GenerativeModel("gemini-2.0-flash")
+
 center_coords = (12.9763, 77.6033)  # MG Road, Bangalore
 
-# Load housing data
+# 📦 Load housing data
 housing_df = pd.read_csv("housing_data.csv")
 housing_df.columns = [col.strip() for col in housing_df.columns]
 housing_df.rename(columns={
@@ -25,7 +32,7 @@ housing_df.rename(columns={
 housing_df["LULC_Description"] = housing_df["LULC_Description"].str.strip()
 housing_df = housing_df[housing_df['area_name'].str.contains("Bangalore", case=False, na=False)]
 
-# Tags for OSM extraction
+# 🔖 OSM Tags
 tags = {
     "amenity": True, "shop": True, "building": True, "railway": True,
     "highway": True, "bus": True, "aeroway": True, "landuse": True,
@@ -33,10 +40,7 @@ tags = {
     "generator:source": True, "waterway": True, "leisure": True
 }
 
-# HuggingFace Inference client
-client = InferenceClient("mistralai/Mistral-7B-Instruct-v0.2", token="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")
-
-# ========= Function to extract structured query ========= #
+# ========= LLM Query Parser =========
 def llm_extract(question):
     prompt = f"""
 You are an assistant that extracts structured search parameters from location-based questions.
@@ -44,12 +48,10 @@ You are an assistant that extracts structured search parameters from location-ba
 Extract and return:
 - "amenity" (optional)
 - "location"
-- "
-
-
-" in meters (default 2000)
+- "radius" in meters (default 2000)
 - "housing_type" (e.g., kutcha, pucca, semi_Pucca) [optional]
 - "lulc" (e.g., Cropland, Built-up) [optional]
+- "top_k" (number of top results to return, default 5)
 
 Respond in JSON format only:
 {{
@@ -57,31 +59,30 @@ Respond in JSON format only:
   "location": "MG Road",
   "radius": 2000,
   "housing_type": "kutcha",
-  "lulc": "Cropland"
+  "lulc": "Cropland",
+  "top_k": 5
 }}
 
 Query: {question}
 """
-    try:
-        response = client.chat_completion(messages=[
-            {"role": "system", "content": "You are a helpful assistant that extracts structured location-based search queries."},
-            {"role": "user", "content": prompt}
-        ])
-        output = response.choices[0].message["content"].strip()
-    except Exception as e:
-        print(f"❌ LLM API call failed: {e}")
-        return None, None, 2000, None, None
 
-    json_match = re.search(r'{[\s\S]*?}', output)
+    try:
+        response = model.generate_content(prompt)
+        text = response.text.strip()
+    except Exception as e:
+        print("❌ Gemini API Error:", e)
+        return None, None, 2000, None, None, 5
+
+    json_match = re.search(r'{[\s\S]*?}', text)
     if not json_match:
         print("❌ No valid JSON found.")
-        return None, None, 2000, None, None
+        return None, None, 2000, None, None, 5
 
     try:
         parsed = json.loads(json_match.group())
         amenity = str(parsed.get("amenity", "")).strip()
         location = str(parsed.get("location", "")).strip()
-        radius = min(radius, 1000)
+        radius = int(parsed.get("radius", 2000))
         housing_type_raw = str(parsed.get("housing_type", "")).lower().strip()
         housing_type_map = {
             "pucca": "pucca",
@@ -91,16 +92,17 @@ Query: {question}
         }
         housing_type = housing_type_map.get(housing_type_raw, "")
         lulc = str(parsed.get("lulc", "")).strip()
-        return amenity, location, radius, housing_type, lulc
+        top_k = int(parsed.get("top_k", 5))
+        return amenity, location, radius, housing_type, lulc, top_k
     except Exception as e:
-        print(f"❌ JSON parsing error: {e}")
-        return None, None, 2000, None, None
+        print("❌ JSON Parsing Error:", e)
+        return None, None, 2000, None, None, 5
 
-# ========= Main processing function ========= #
+# ========= Main Processing =========
 def process_query(query):
-    global center_coords, housing_df, tags, client
+    global center_coords, housing_df, tags
 
-    amenity, location, radius, housing_type, lulc = llm_extract(query)
+    amenity, location, radius, housing_type, lulc, top_k = llm_extract(query)
 
     # 📍 Geocode
     try:
@@ -116,7 +118,7 @@ def process_query(query):
     except:
         center = center_coords
 
-    # 🛣️ Get road edges
+    # 🛣️ Get roads
     G = ox.graph_from_point(center, dist=radius, network_type='drive')
     edges = ox.graph_to_gdfs(G, nodes=False)
     expected_cols = ["name", "highway", "width", "lanes", "lane:width", "geometry"]
@@ -136,6 +138,7 @@ def process_query(query):
 
     edges["estimated_width_m"] = edges.apply(estimate_width, axis=1)
 
+    # 🏢 Get OSM Features
     gdf = ox.features_from_point(center, tags=tags, dist=radius)
     gdf = gdf[[col for col in gdf.columns if isinstance(col, str)]]
     tag_cols = [col for col in tags if col in gdf.columns]
@@ -149,9 +152,9 @@ def process_query(query):
             "longitude": row.geometry.centroid.x if row.geometry.geom_type != "Point" else row.geometry.x
         }
         for _, row in subset.iterrows() if pd.notna(row.get("name"))
-    ]
+    ][:top_k]  # 🔢 Apply top_k limit
 
-    # 🏠 Housing filter
+    # 🏘️ Filter housing data
     housing_subset = housing_df.copy()
     if housing_type and housing_type in housing_df.columns:
         housing_subset = housing_subset[housing_subset[housing_type] > 0]
@@ -188,8 +191,10 @@ def process_query(query):
         "radius": radius,
         "housing_type": housing_type,
         "lulc": lulc,
+        "top_k": top_k,
         "amenity_matches": named_amenities,
         "housing_matches": housing_data,
         "road_widths": road_data
     }
+
 __all__ = ['process_query']
