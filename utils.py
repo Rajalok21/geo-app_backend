@@ -145,14 +145,20 @@ def process_query(query):
     gdf["category"] = gdf[tag_cols].fillna("").agg("".join, axis=1)
 
     subset = gdf[gdf["category"] == amenity]
-    named_amenities = [
-        {
-            "name": row["name"],
-            "latitude": row.geometry.centroid.y if row.geometry.geom_type != "Point" else row.geometry.y,
-            "longitude": row.geometry.centroid.x if row.geometry.geom_type != "Point" else row.geometry.x
-        }
-        for _, row in subset.iterrows() if pd.notna(row.get("name"))
-    ][:top_k]  # 🔢 Apply top_k limit
+    named_amenities = []
+    for _, row in subset.iterrows():
+        if pd.notna(row.get("name")):
+            lat = row.geometry.centroid.y if row.geometry.geom_type != "Point" else row.geometry.y
+            lon = row.geometry.centroid.x if row.geometry.geom_type != "Point" else row.geometry.x
+            street_view_url = f"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint={lat},{lon}"
+            named_amenities.append({
+                "name": row["name"],
+                "latitude": lat,
+                "longitude": lon,
+                "street_view_url": street_view_url
+            })
+            if len(named_amenities) >= top_k:
+                break
 
     # 🏘️ Filter housing data
     housing_subset = housing_df.copy()
@@ -182,6 +188,9 @@ def process_query(query):
         if pd.notna(row.get("estimated_width_m"))
     ]
 
+    # 🌐 Query center street view URL
+    street_view_url = f"https://www.google.com/maps/@?api=1&map_action=pano&viewpoint={center[0]},{center[1]}"
+
     return {
         "query": query,
         "amenity": amenity,
@@ -194,7 +203,8 @@ def process_query(query):
         "top_k": top_k,
         "amenity_matches": named_amenities,
         "housing_matches": housing_data,
-        "road_widths": road_data
+        "road_widths": road_data,
+        "street_view_url": street_view_url
     }
 
 __all__ = ['process_query']
