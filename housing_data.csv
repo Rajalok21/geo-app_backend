@@ -1,0 +1,838 @@
+area_name,pucca,semi_Pucca,kutcha,latitude,longitude,LULC_Code,LULC_Description
+District - Bangalore,93.3,5.7,0.7,12.9700247,77.6536125,50,Built-up
+District - Bangalore,84.6,13.8,1.4,12.9700247,77.6536125,50,Built-up
+District - Bangalore,94.1,4.9,0.6,12.9700247,77.6536125,50,Built-up
+Sub-Dist - Bangalore North,86.9,11.4,1.5,12.9628669,77.577509,50,Built-up
+Sub-Dist - Bangalore North,86,12.2,1.6,12.9628669,77.577509,50,Built-up
+Sub-Dist - Bangalore North,91.2,7.7,0.9,12.9628669,77.577509,50,Built-up
+Gopalapura,67.8,22.2,10,12.9790742,77.5626584,50,Built-up
+Kukkanahalli,78.8,20.2,0.5,13.1546477,77.4386429,40,Cropland
+Shamabhattara Palya,55,15,30,13.1394101,77.430753,40,Cropland
+Totagere,66.7,28.2,5.1,13.1379612,77.4443807,40,Cropland
+Bommasettihalli,71.8,17.9,10.3,13.1292633,77.4113845,60,Bare / sparse vegetation
+Syadamipalya,73.5,23.5,2.9,13.1171029,77.3941654,40,Cropland
+Bethanagere,65.1,25,9.9,13.1082704,77.4156889,40,Cropland
+Rampalya,91.1,7.1,0,13.1249511,77.4099497,60,Bare / sparse vegetation
+Huskur,75.9,18,5.8,12.8581406,77.7065754,40,Cropland
+Agrahara Palya,88.6,11.4,0,13.1224783,77.4458151,40,Cropland
+Hosahalli Palya,72.5,14.3,13.2,13.1257298,77.4544211,40,Cropland
+Govindapura,84.7,15.3,0,13.0348659,77.6206769,50,Built-up
+Honnasandra,48.2,43.2,8.1,13.0405467,77.3378329,50,Built-up
+Huchana Palya,89.7,8.6,0,13.1072105,77.4228625,30,Grassland
+Pillahalli,93.8,5.8,0.4,13.1031817,77.4271665,40,Cropland
+Nagarur,91.4,6.4,1.8,13.0862202,77.4271665,40,Cropland
+Kodipalya,94.7,5.3,0,12.8984666,77.4906807,50,Built-up
+Mathahalli,92.7,5,2.3,13.1081625,77.4565725,50,Built-up
+Narasipura,77.2,22,0.8,12.2110225,76.9038011,50,Built-up
+Torenagasandra,48.1,50,1.9,13.112155,77.4658948,40,Cropland
+Muniyanapalya,90.9,9.1,0,13.1035315,77.4630265,10,Tree cover
+Vaderahalli,97.7,2.3,0,13.0958692,77.5375794,50,Built-up
+Alur,82.1,16.6,1.3,15.393291,77.2274933,50,Built-up
+Kuduragere,93.2,6.8,0,13.1962101,77.5934621,40,Cropland
+Thammenahalli,94.5,5.5,0,13.0734165,77.4831032,60,Bare / sparse vegetation
+Hanumantha Sagara,98.8,1.2,0,13.0688652,77.4623094,40,Cropland
+Heggadadevanapura,97,2.6,0.2,13.0717935,77.4527702,50,Built-up
+Makali,96.9,2.8,0.3,13.0682365,77.4560175,50,Built-up
+Adakamaranahalli,94.9,4.9,0.2,13.0628291,77.4400774,50,Built-up
+Dasanapura,91.8,7.6,0.5,13.0700786,77.4291142,60,Bare / sparse vegetation
+Gejjagadahalli,98.4,1.2,0.4,13.0592989,77.4257319,40,Cropland
+Hullegowdanahalli,80.1,18.9,1,13.0560161,77.4020578,40,Cropland
+Byregowdanahalli,87.5,11.3,0,13.0556983,77.3812494,40,Cropland
+Venkatapura,100,0,0,12.9199543,77.6256895,50,Built-up
+Lakkenahalli,72.7,24.2,3.1,13.0435107,77.39751,50,Built-up
+Kenganahalli,88.6,10.2,1.1,13.04715,77.4085149,20,Shrubland
+Shivanapura,89.6,8.7,1.7,13.0520227,77.4214278,30,Grassland
+Gowdahalli,17.2,82.1,0.7,13.0412825,77.4329048,40,Cropland
+Harokyathanahalli,92.4,7.1,0.3,13.0531484,77.4443807,40,Cropland
+Narayanappana Palya,100,0,0,13.0577348,77.4329897,40,Cropland
+Madavara,96.9,3.1,0,13.0524556,77.4697055,40,Cropland
+Siddanahosahalli,98.8,1.1,0.1,13.0522271,77.4544211,20,Shrubland
+Dombarahalli,97.5,2.5,0,13.0467153,77.4572897,10,Tree cover
+Kadaranahalli,94,4.8,1.2,13.0406423,77.4486838,50,Built-up
+Avverahalli,76.1,12.8,11,12.5679014,77.1833837,50,Built-up
+Hunnigere,83.4,9.7,6.2,13.0280099,77.3927304,40,Cropland
+Sondekoppa,82.1,16.1,1.7,13.0197831,77.3834021,50,Built-up
+Nagasandra,59.6,38.6,1.8,13.039457,77.5000183,50,Built-up
+Mallasandra,63,33.9,3.1,13.0606824,77.5117782,50,Built-up
+Gollarapalya,70,30,0,12.8015013,77.4254459,50,Built-up
+Ravuthanahalli,64.5,32,3.4,13.0268458,77.4238878,50,Built-up
+Kammasandra,56.4,43.6,0,12.834002,77.688267,50,Built-up
+Lakshmipura,94.3,5.5,0.2,12.9795581,77.6314178,10,Tree cover
+K.G.Srikantapura,100,0,0,13.0304607,77.4716313,40,Cropland
+Gangondanahalli,90.2,9.7,0.1,13.020361,77.467329,40,Cropland
+K.G. Lakkenahalli,82.3,17.7,0,13.0184582,77.4572897,40,Cropland
+Vaddarahalli,68.6,31.4,0,13.0152126,77.4486838,40,Cropland
+Bettahalli,61.5,36.8,1.7,13.0133093,77.4386429,20,Shrubland
+Kittana Halli,61.5,22.2,16.3,13.0092015,77.4196345,50,Built-up
+Gattisiddanahalli,50,0,50,13.0019484,77.4085149,20,Shrubland
+Giddenahalli,81.6,15.8,2.6,12.9910718,77.4171237,10,Tree cover
+Kadabagere,96.8,2.8,0.3,12.9968854,77.4331027,50,Built-up
+Byandahalli,88.9,11.1,0,13.003492,77.4400774,50,Built-up
+Bylakonenahalli,83.8,16.2,0,13.016227,77.456484,50,Built-up
+Machohalli,94.7,5.1,0.1,13.0068721,77.4532558,50,Built-up
+Kachohalli,94,5.3,0.7,13.0000525,77.4709142,50,Built-up
+Ganigarahalli,76.9,22.9,0.2,13.0882124,77.5110614,50,Built-up
+Somashetti Halli,89.6,5.5,4.6,13.0847831,77.5132117,50,Built-up
+Lakshmipura,98,1.1,0.8,12.9795581,77.6314178,10,Tree cover
+Kodigehalli(Part),87.2,12.8,0,13.0697279,77.5787819,50,Built-up
+Seegehalli,95.2,4.8,0,13.0117454,77.7644234,50,Built-up
+Kannahalli,91.9,7.9,0.3,12.9633065,77.4558554,40,Cropland
+Manganahalli,98.3,1.7,0,12.9540498,77.4687631,40,Cropland
+Sonnenahalli,43.8,53.5,2.8,13.0150482,77.7380549,20,Shrubland
+Challahalli,74.3,18.4,7.3,13.2170566,77.5064022,50,Built-up
+Haniyur,58.5,32.1,9.4,13.213734,77.5147642,50,Built-up
+Kakkehalli,92.3,7.7,0,13.2116248,77.518229,40,Cropland
+Nellukunte,39.4,60.6,0,13.1580522,77.5860318,50,Built-up
+Kadathanamale,73.4,21.8,4.8,13.210135,77.5453232,50,Built-up
+Marasandra Amanikere,88.4,11.4,0.2,13.2152638,77.5490448,10,Tree cover
+Suradenpura,87.9,12.1,0,13.2113676,77.5610545,50,Built-up
+Adde Vishwanathapura,93.2,6.5,0.3,13.1815797,77.554777,40,Cropland
+Arakere,93.3,6.7,0,12.8268007,76.892846,20,Shrubland
+Byrapura,64.6,31.5,3.9,12.2189577,76.898479,50,Built-up
+Channasandra,41,46.2,12.8,12.979699,77.761624,30,Grassland
+Kamakshipura,71.2,28.8,0,13.1956364,77.4809523,40,Cropland
+Seeresandra,40.2,41.8,18,13.1864047,77.4802353,10,Tree cover
+Byatha,69.1,29.8,1,13.1810284,77.4859711,40,Cropland
+Kakolu,53.4,46.6,0,13.1889912,77.5178723,40,Cropland
+Budumanahalli,70.8,26.4,2.8,13.183253,77.5167955,40,Cropland
+Shanubhoganahalli,78.7,19.3,2,12.958183,77.3258017,50,Built-up
+Chokkanahalli,71.4,27.4,1.2,13.0856954,77.6301154,50,Built-up
+Sreeramanahalli,63.5,36.1,0.4,13.19276,77.5519109,20,Shrubland
+Sadenahalli,86.7,12.3,0.5,13.1941424,77.5729552,50,Built-up
+Adiganahalli,96.4,3.6,0,13.1717737,77.5712556,50,Built-up
+Rajanukunte,94,5.7,0.1,13.1746853,77.5484756,10,Tree cover
+Ittagallpura,75,24,1,13.1651027,77.5361462,40,Cropland
+Dibburu,92.9,7.1,0,13.1704807,77.530413,10,Tree cover
+Koluvarayanahalli,75.7,24.3,0,13.1651422,77.5225294,50,Built-up
+Seethakempanahalli,66.1,33.9,0,13.1717091,77.5187971,50,Built-up
+Hesaraghatta Grass Farm,100,0,0,13.1620028,77.4730653,20,Shrubland
+Dasenahalli,58.4,40,1.2,13.2657341,77.2836151,40,Cropland
+Kalenahalli,98.3,1.7,0,12.8508954,76.3492569,10,Tree cover
+Mathkur,85.9,13.7,0.4,13.1520978,77.5017428,40,Cropland
+Linganahalli,83,15.6,1.5,13.1566543,77.5225294,40,Cropland
+Muthagada Halli,92.4,6.3,1.3,13.1359687,77.5189458,20,Shrubland
+Madappanahalli,86,13.6,0.4,13.1537852,77.5361462,50,Built-up
+Krishnarajapura,100,0,0,13.0169992,77.7044335,50,Built-up
+Mylappanahalli,82.6,16.9,0.5,13.1368956,77.5349794,50,Built-up
+Lingarajapura,78.6,21.4,0,13.0130399,77.626179,50,Built-up
+Shivakote,83.7,15.1,0.5,13.1343437,77.5146453,50,Built-up
+Ivar Kandapura,89.2,10.6,0.2,13.136707,77.4937618,50,Built-up
+Hesaraghatta,87.9,11.8,0.3,13.15,77.49,40,Cropland
+Guddadahalli,56.8,42.6,0.6,12.9577974,77.5461785,50,Built-up
+Bilijaji,56.1,41,2.9,13.1258935,77.4756474,50,Built-up
+Kodagi Thirumalapura,90.4,8.9,0.6,13.1185148,77.4802353,40,Cropland
+Thammarasanahalli,94.3,4.5,1.1,13.1190776,77.4917065,40,Cropland
+Madhugirihalli,89.7,7.4,2.9,13.1221869,77.4974416,20,Shrubland
+Mavallipura,92.4,6.7,0,13.1192783,77.5246795,40,Cropland
+Bylakere,97.7,2.2,0.2,13.1076851,77.5189458,10,Tree cover
+Kondashetti Halli,48.3,51.7,0,13.1261591,77.5135701,50,Built-up
+Kasagattapura,82.8,16.9,0.3,13.1094407,77.5042517,50,Built-up
+Hurali Chikkanahalli,96.2,3.4,0.4,13.11587,77.482773,50,Built-up
+Tharabana Halli,95.2,4.8,0,13.1037041,77.4809523,20,Shrubland
+Sasiveghatta,68.4,28.4,3.2,13.0884737,77.4730653,40,Cropland
+Soladevanahalli,90.7,9.1,0.2,13.0847246,77.4831032,50,Built-up
+Kumbarahalli,87.3,12.7,0,12.038576,76.7206652,40,Cropland
+Kempapura,99.2,0.8,0,13.0529125,77.6014859,50,Built-up
+Kalathammanahalli,85.4,13.9,0.7,13.1044161,77.5171539,50,Built-up
+Guniagrahara,87.3,12.4,0,13.092202,77.5203792,40,Cropland
+Tarahunase,70.4,19.6,9.7,13.1782743,77.5884481,10,Tree cover
+Kuduragere,83.5,3.2,0.5,13.1962101,77.5934621,40,Cropland
+Gadenahalli,97.5,2.5,0,13.1982556,77.6063541,60,Bare / sparse vegetation
+Tharabanahalli,65.4,29.2,5.4,13.1037041,77.4809523,20,Shrubland
+Navarathna Agrahara,94.7,5,0,13.2002295,77.6356758,50,Built-up
+Meenakunte,92.1,6.8,0.2,13.1865647,77.6278377,40,Cropland
+Channahalli,52.8,45.7,1.5,13.2150522,77.7480692,20,Shrubland
+Byanahalli,78.4,20.6,0,13.003492,77.4400774,50,Built-up
+Papanahalli,60,40,0,13.1778816,77.5948946,40,Cropland
+Thimmasandra,87.9,11,1.2,13.1670664,77.5762703,10,Tree cover
+Nellukunte,90.9,9.1,0,13.1580522,77.5860318,50,Built-up
+Bettahalasur,74.8,14.7,10.5,13.1623413,77.609935,50,Built-up
+Chokkanahalli,73.3,26.7,0,13.0856954,77.6301154,50,Built-up
+Chikkajala,95.3,4.2,0.6,13.1698991,77.6348862,10,Tree cover
+Maranayakana Halli,93.9,1.7,3.2,13.1696114,77.643576,40,Cropland
+Doddajala,96.3,3.7,0,13.1820846,77.6528682,50,Built-up
+Settigere,71.1,25.4,3,13.5497423,77.7480692,20,Shrubland
+Muthugada Halli,73.2,25.4,0,13.0948839,76.7199436,10,Tree cover
+Begur,73.6,25.3,1.1,41.9535511,3.2025608,50,Built-up
+Mylanahalli,90.7,7.6,1.4,13.1300388,77.3984704,30,Grassland
+Chikkanahalli,86.4,13.6,0,12.7871594,77.7881176,40,Cropland
+Boilahalli,91.8,8.2,0,13.1664223,77.6793813,20,Shrubland
+Meesaganahalli,86.6,11.9,1.5,13.1673521,77.6693608,40,Cropland
+Huttanahalli,76,23.1,0.6,13.1653704,77.6499525,50,Built-up
+Hosahalli,78.1,20.1,1.3,13.5367865,77.2472507,50,Built-up
+Bilmaranahalli,92.5,7.5,0,13.1531562,77.6392939,50,Built-up
+Sonnappanahalli,78.2,9.5,11.8,13.2955428,77.5691064,40,Cropland
+Sathnur,96.7,3.3,0,13.1222276,77.6305669,50,Built-up
+Byappanahalli,83.4,16.6,0,12.9935666,77.6435896,50,Built-up
+Chagalahatti,69,30.5,0.5,13.1200312,77.656476,40,Cropland
+Bagalur,81.1,16.8,1.5,13.1325768,77.6672134,50,Built-up
+Huvinayakanahalli,56.6,42.1,1.4,13.1478626,77.6898005,50,Built-up
+Bandi Kodige Halli,90.5,7.4,1.8,13.1721718,77.6898643,50,Built-up
+Bandi Kodigehalli Palya,59.2,37.5,3.3,13.1726387,77.6908323,50,Built-up
+Hunachur,96.8,3.2,0,13.1856033,77.6970038,50,Built-up
+Singahalli,69.3,27.4,3.4,13.1616007,77.7235363,50,Built-up
+Gollahalli,53.3,46.7,0,12.8336587,77.6664976,40,Cropland
+Arebinnamangala,91.4,8.6,0,,,,
+Mahadevakodigehalli,59.6,38.4,2,13.1443251,77.7031262,50,Built-up
+Manchappanahosahalli,60.9,36.8,1,13.145161,77.7080064,40,Cropland
+Maralakunte,74.1,24.7,0.8,13.1319321,77.7060877,50,Built-up
+Dasanayakanahalli,76,21.3,1.3,13.1241063,77.6822442,40,Cropland
+Marenahalli,78.3,11.8,8.6,12.915347,77.5884481,50,Built-up
+Marasandra,73.5,25.5,1,13.2005531,77.4430731,50,Built-up
+Challamakunte,0,0,100,13.1187562,77.7180235,40,Cropland
+Honnenahalli,96.8,2.9,0,13.1566722,77.5662406,40,Cropland
+Nagadasanahalli,85.7,11.1,0,13.1597819,77.571972,10,Tree cover
+Lakshmisagara,100,0,0,13.1159053,77.9553045,40,Cropland
+Muddanahalli,98.4,1.6,0,13.1454943,77.5691064,50,Built-up
+Singanayakanahalli,78.1,21.9,0,13.1489682,77.553344,40,Cropland
+Avalahalli,79.5,18.7,1.6,12.9456895,77.5440288,50,Built-up
+Gantiganahalli,87.3,11.8,0.9,13.1437352,77.5886698,50,Built-up
+Ramagondanahalli,92.8,7,0.2,12.9558171,77.7409162,50,Built-up
+Jarakbandekaval,100,0,0,13.1085255,77.5361462,50,Built-up
+Shamarajpura,100,0,0,13.101665,77.5404459,40,Cropland
+Medi  Agrahara,99.3,0,0,13.0981375,77.5261129,10,Tree cover
+Vaderahalli,93.8,6.2,0,13.0958692,77.5375794,50,Built-up
+Veerasagara,79.6,20,0.4,13.1043724,77.5458314,50,Built-up
+Kempanahalli,99.1,0.9,0,13.1100367,77.5526275,40,Cropland
+Kadigenahalli (CT),87.2,9.4,3.4,41.6032207,-73.087749,30,Grassland
+Kadigenahalli (CT) - Ward No.1,87.2,9.4,3.4,,,,
+Hunasamaranahalli (CT),83.3,15.9,0.6,13.143109,77.6291424,50,Built-up
+Hunasamaranahalli (CT) - Ward No.1,83.3,15.9,0.6,13.143109,77.6291424,50,Built-up
+Chikkabanavara (CT),94.6,5.2,0.2,13.0754061,77.5094772,50,Built-up
+Chikkabanavara (CT) - Ward No.1,94.6,5.2,0.2,13.0754061,77.5094772,50,Built-up
+Madanaiyakanahalli (CT),93.8,5.4,0.8,41.6032207,-73.087749,30,Grassland
+Madanaiyakanahalli (CT) - Ward No.1,93.8,5.4,0.8,,,,
+Chikkabidarakallu (CT),94.3,4.6,0.8,41.6032207,-73.087749,30,Grassland
+Chikkabidarakallu (CT) - Ward No.1,94.3,4.6,0.8,13.0449861,77.489181,50,Built-up
+Sub-Dist - Bangalore South,84.5,13,2.1,12.9628669,77.577509,50,Built-up
+Sub-Dist - Bangalore South,82.9,14.5,2.3,12.9628669,77.577509,50,Built-up
+Sub-Dist - Bangalore South,91,7.2,1.3,12.9628669,77.577509,50,Built-up
+Naganahalli,93.2,2.7,4.1,12.3787013,76.6521006,50,Built-up
+Jogerahalli,61.9,33.6,2.7,12.985711,77.3743651,50,Built-up
+Gangenahalli,84,16,0,13.0227043,77.5846875,50,Built-up
+Varthur,94.1,2.6,3.3,12.9388787,77.7412047,50,Built-up
+Honniganahatti,94.2,4.2,1.6,12.978573,77.4214278,60,Bare / sparse vegetation
+Channenahalli,90.4,9.3,0.2,12.9734849,77.4329048,40,Cropland
+Kurubarahalli,83.9,12.9,2.6,13.0023069,77.5318463,50,Built-up
+Bychaguppe,54.5,44,0,12.9689857,77.388494,50,Built-up
+Devamachahalli Narayanapura,100,0,0,12.9780901,77.3826845,20,Shrubland
+Devamachohalli,89.3,9.3,1.4,12.9673258,77.3790965,30,Grassland
+Marenahalli,98.2,1.8,0,12.915347,77.5884481,50,Built-up
+Gangappanahalli,92.2,7.8,0,12.96044,77.3597043,50,Built-up
+Thippagondanahalli,94.8,5.2,0,12.9687073,77.335314,30,Grassland
+Kempagondanahalli,66.9,24.3,8.8,13.0589726,77.5347129,10,Tree cover
+Madapatna,66.3,10.8,22.9,12.7725318,77.6499455,50,Built-up
+Cholanaikanahalli,69.3,26.9,3.8,13.0358453,77.5970433,50,Built-up
+Ganukal,88.3,11.7,0,12.9596669,77.3812494,10,Tree cover
+Peddanapalya,92.4,7.6,0,12.9586062,77.3884251,40,Cropland
+Tavarekere,82.5,17.1,0.2,12.9241089,77.6092188,50,Built-up
+Yalachaguppe Ramapura,70.3,29.7,0,12.9594045,77.4219703,50,Built-up
+Yelachaguppe,85.7,14,0.3,12.9562621,77.4271665,10,Tree cover
+Puradapalya,81.5,18.5,0,12.947208,77.3774354,50,Built-up
+Doddamaranahalli,90.2,9.8,0,12.9338677,77.3862472,50,Built-up
+Ajjanahalli,87,11.4,1.6,12.8591614,77.2499957,50,Built-up
+Huluvenahalli,72.1,26.7,1.2,12.9196038,77.3640707,50,Built-up
+Sulivara,63.8,34.4,0.9,12.9040306,77.362376,50,Built-up
+Sulivara Ramapura,100,0,0,12.9013538,77.3575662,10,Tree cover
+Chikkanahalli,77.8,20.5,1.7,12.7871594,77.7881176,40,Cropland
+Vadahalli,87.5,12.5,0,12.8841044,77.3654611,30,Grassland
+Kurubarapalya,87.8,12.2,0,12.9113634,77.3627301,50,Built-up
+Donnenahalli,63.9,28.5,5.6,12.8839481,77.3748945,50,Built-up
+Byalalu,80.7,18.4,0.9,12.8972909,77.3755084,20,Shrubland
+Chunchanakuppe,73,26.5,0.5,12.9103143,77.3861764,50,Built-up
+Ganapathihalli,86.1,13.1,0.8,12.9168231,77.3999054,30,Grassland
+Muddaiahnapalya,31.1,57.5,11.3,12.968034,77.4877634,50,Built-up
+Punagumaranahalli,46.4,53.6,0,13.143109,77.6291424,50,Built-up
+Kethohalli,94.1,5.9,0,12.9058131,77.4056451,40,Cropland
+Kethohalli Narasimhapura,100,0,0,12.8992889,77.4020578,30,Grassland
+Kethohalli Ramapura,100,0,0,12.8950559,77.4020578,20,Shrubland
+Kolur Gururayanapura,100,0,0,12.8859199,77.4027753,50,Built-up
+Dodderi,54.5,33.8,11.7,14.2959961,76.7037079,50,Built-up
+Kolur Nanjundapura,66.7,11.1,22.2,12.879815,77.4077974,50,Built-up
+Kolur,71.6,28.4,0,15.2839861,76.9081238,50,Built-up
+Seshagiripura,80.6,19.4,0,12.9889055,77.574044,50,Built-up
+Chikkellur,55.5,44.5,0,12.8926782,77.4257319,30,Grassland
+Chikkellur Venkatapura,100,0,0,12.8901344,77.4314703,20,Shrubland
+Chikkellur Ramapura,85.7,0,14.3,12.8815295,77.4286011,40,Cropland
+M.Krishnasagara,100,0,0,12.9412218,77.4372084,40,Cropland
+Kenchanapura,89,9.2,0.6,12.9520109,77.4558554,80,Water bodies
+Kommaghatta,91.9,8.1,0,12.9194122,77.4686378,50,Built-up
+Sulikere,93.5,5.7,0.8,12.9323774,77.4615966,50,Built-up
+Maragondanahalli,76.2,17.2,6.6,12.8247842,77.6579077,50,Built-up
+Maligondanahalli,41.4,57.6,1,12.91618,77.4156889,40,Cropland
+Ramohalli,91.1,8.6,0.2,12.9051692,77.4214278,40,Cropland
+Bheemanakuppe,94,6,0,12.9043709,77.4386004,50,Built-up
+Kommaghatta - Krishnasagara,95.7,4.3,0,12.9111428,77.4572897,40,Cropland
+Chalaghatta,97.7,2.3,0,12.9505711,77.6445168,50,Built-up
+Kaniminike,94.5,2.3,2.1,12.8696163,77.4258239,50,Built-up
+Thagachaguppe,80,19.6,0.5,12.8660446,77.4546992,50,Built-up
+Kambipura,93.3,6.4,0.1,12.8802797,77.4594092,50,Built-up
+Venkatapura,100,0,0,12.9199543,77.6256895,50,Built-up
+Doddabele,87.9,11.4,0.3,12.8900176,77.472551,50,Built-up
+Kengeri Gollahalli,97.3,2.7,0,12.872738,77.4802353,20,Shrubland
+Gudimavu,84.4,14.6,1,12.8639897,77.4674245,20,Shrubland
+Kumbalagodu Gollahalli,54.2,44.2,1.3,12.8430689,77.4516047,50,Built-up
+Hampapura,81,19,0,11.9994666,76.7206652,50,Built-up
+Thippur,66.7,33.3,0,12.5096321,76.4273844,10,Tree cover
+Gonipura,62.4,37.1,0.4,12.8318485,77.450495,50,Built-up
+Gangasandra,88.6,10.3,1.1,12.8465851,77.470807,50,Built-up
+Devagere,94.6,4.4,0.3,12.8564214,77.4656107,50,Built-up
+Rachanamadu,86.9,12.6,0,12.8571865,77.508911,40,Cropland
+Badamanavarthekaval,81.7,9.9,7.9,12.8488422,77.5167691,50,Built-up
+Chinnakurchi,33.5,65.5,1,12.8227418,77.467329,30,Grassland
+Seegehalli,67.5,32.5,0,13.0117454,77.7644234,50,Built-up
+Agara,86,11.7,2.1,12.9230648,77.6464534,50,Built-up
+Mallasandra,100,0,0,13.0606824,77.5117782,50,Built-up
+O.B.Chudahalli,84.9,14.1,0.3,12.8178656,77.5200209,50,Built-up
+Kaggalipura,90.3,8.3,1.4,12.2751499,76.890797,10,Tree cover
+Uttari,70.9,14.8,14.2,12.8180049,77.4934987,50,Built-up
+Naganayakanahalli,80.1,17.7,2.2,13.2239981,77.7866875,10,Tree cover
+Nelaguli,60.8,26.4,12.5,12.7743908,77.4895783,50,Built-up
+K.  Chudahalli,73,24.1,2.9,12.7843577,77.4902726,10,Tree cover
+Tharalu,63.7,27.6,8.7,12.7862766,77.530413,20,Shrubland
+Gulakamale,88.1,9.4,2.4,12.7975587,77.530413,20,Shrubland
+Alakabelalu,92.3,7.7,0,12.7790206,77.5261129,30,Grassland
+Somanahalli,88.6,9.7,1.4,12.7716832,77.5053269,50,Built-up
+Nettigere,50.2,49.1,0.7,12.756709,77.5017428,40,Cropland
+Ravugodlu,87.1,5.1,7.8,12.7477105,77.4978,50,Built-up
+Sunkadakatte,0,99,1,12.9918405,77.5046475,50,Built-up
+Thattaguppe,77.3,22.6,0.2,12.7699018,77.5418791,40,Cropland
+Vaddarapalya,81.5,18.5,0,13.0165695,77.4909896,50,Built-up
+Doddanagamangala,94.7,1.4,0,12.8557978,77.6740729,50,Built-up
+Vittasandra,83.6,6.3,10.1,12.8553518,77.6365199,50,Built-up
+Mylasandra,87.2,2.5,10.1,12.8538319,77.6206518,50,Built-up
+Hommadevanahalli,86.4,12.5,0.4,12.8445059,77.5977596,50,Built-up
+Bettadasanapura,72.4,15.2,12.2,12.8438478,77.6347342,50,Built-up
+Uttarahalli -Manavarthekaval,100,0,0,12.8536421,77.5233599,50,Built-up
+Kumbalagodu (CT),83.6,12.6,3.6,12.8794008,77.4451317,50,Built-up
+Kumbalagodu (CT) - Ward No.1,83.6,12.6,3.6,12.8794008,77.4451317,50,Built-up
+Konappana Agrahara (CT),94.5,4.7,0.2,12.854899,77.6679292,50,Built-up
+Konappana Agrahara (CT) - Ward No.1,94.5,4.7,0.2,12.854899,77.6679292,50,Built-up
+Sub-Dist - Bangalore East,85,13.3,1.4,12.9628669,77.577509,50,Built-up
+Sub-Dist - Bangalore East,85,13.3,1.4,12.9628669,77.577509,50,Built-up
+Mittaganahalli,38.3,32.1,29.6,13.1092278,77.6378619,40,Cropland
+Kadusonnappanahalli,89.4,7.6,2.1,13.097366,77.6624686,50,Built-up
+Yerappanahalli,94.7,3.6,1.3,13.0864529,77.6861805,50,Built-up
+Chikkasandra,100,0,0,13.0663363,77.5117782,40,Cropland
+Gundur,94.7,3.9,1.3,15.9365927,76.1312705,60,Bare / sparse vegetation
+Kada Agrahara,47.2,32.9,19.9,12.8620296,77.7719115,50,Built-up
+Bandebommasandra,72.3,27.7,0,13.0766817,77.6815285,50,Built-up
+Anagalapura,99.2,0.8,0,13.0696952,77.680679,50,Built-up
+Nadagowdagollahalli,65.2,33.3,1.5,13.0908087,77.6664976,10,Tree cover
+Rampura,84.9,14.2,0.2,23.7612256,90.420766,50,Built-up
+Adur,93.6,6.4,0,50.8348175,-0.3101263,40,Cropland
+Maragondanahalli,92.7,7,0.3,12.8247842,77.6579077,50,Built-up
+Halehalli,83,17,0,13.0346638,77.704174,50,Built-up
+Kithiganur,96.4,3.5,0.1,13.0384626,77.7060037,40,Cropland
+Hirandahalli,81.4,17.4,0.8,13.0465907,77.7225844,50,Built-up
+Bidarahalli,97.2,2.8,0,13.0613596,77.7158771,50,Built-up
+Byappanahalli,81.3,18.3,0.3,12.9935666,77.6435896,50,Built-up
+Kammasandra,63.8,36.2,0,12.834002,77.688267,50,Built-up
+Kattugollahalli,62.3,36.7,0.9,13.1024419,77.7209303,50,Built-up
+Shringaripura,50,50,0,13.1052945,77.732332,20,Shrubland
+Jothipura,69,30.2,0.8,13.1026152,77.7502151,50,Built-up
+Thirumenahalli,68.8,30.3,0.9,13.0903553,77.6278377,60,Bare / sparse vegetation
+Hancharahalli,74.4,25.2,0.4,13.0938504,77.7505527,50,Built-up
+Raghuvanahalli,75.9,24.1,0,12.8778551,77.5425957,50,Built-up
+Kodigehalli,67.6,32.4,0,13.0697279,77.5787819,50,Built-up
+Mandur,80.5,17.6,1.7,13.0829326,77.7380549,50,Built-up
+Bendiganahalli,67.4,32.6,0,13.0714221,77.7487845,40,Cropland
+Lagumenahalli,94.4,5.6,0,13.4170067,77.5381121,50,Built-up
+Bommenahalli,75.9,23.8,0.3,13.0732359,77.7423469,40,Cropland
+Huskur,88.7,9.3,0.9,12.8581406,77.7065754,40,Cropland
+Nimbekaipura,53.3,46.7,0,13.0580534,77.7560972,50,Built-up
+Cheemasandra,85.9,9.3,4.8,13.0463695,77.721237,50,Built-up
+Avalahalli,90.7,9,0.2,12.9456895,77.5440288,50,Built-up
+Veerenahalli,57.7,41.4,0.6,13.0256185,77.7373396,20,Shrubland
+Kurudusonnenahalli,97.9,1.3,0,13.0145021,77.7266088,50,Built-up
+Dommasandra,87.3,10.4,1.9,12.8796531,77.7536195,50,Built-up
+Doddabanahalli,95.3,4.7,0,13.0264961,77.7409162,60,Bare / sparse vegetation
+Bidare Agrahara,78.1,16.6,5.3,13.030378,77.748579,40,Cropland
+Bandapura,94.7,4.9,0,13.044899,77.7383516,50,Built-up
+Konadasapura,97.2,2.4,0.1,13.045534,77.7536499,50,Built-up
+Katamnallur,87.9,10.4,1.6,13.0526344,77.7552218,40,Cropland
+Goravigere,54.4,44.3,1.3,13.0390179,77.7709427,50,Built-up
+Khaji Sonnenahalli,84.1,15.5,0.5,13.034486,77.770173,50,Built-up
+Kannamangala,91.2,8,0.7,13.027138,77.760812,50,Built-up
+Chikkabanahalli,85.9,9.1,4.7,13.019145,77.7512934,50,Built-up
+Seegehalli,81.7,16.3,1.3,13.0117454,77.7644234,50,Built-up
+Halanayakanahalli,93.3,5.7,0.2,12.9004084,77.6876419,30,Grassland
+Chikkakannalli,92,8,0,12.8942079,77.7053399,50,Built-up
+Valepura,93.1,5.7,1.3,12.9557119,77.7666674,50,Built-up
+Kachamaranahalli,94,6,0,12.9121705,77.733394,50,Built-up
+Mulluru,96.7,3.3,0,12.9036148,77.7233902,50,Built-up
+Hadosiddapura,90.6,9.4,0,12.8976785,77.7065754,50,Built-up
+Chikkanayakanahalli,97.2,2.8,0,13.4177165,76.6185142,50,Built-up
+Kodathi,61.8,38,0.1,12.8881943,77.7159618,50,Built-up
+Sulikunte,88.5,10.5,0.6,13.4991319,77.7294705,40,Cropland
+Sub-Dist - Anekal,86.2,12.9,0.7,12.7090575,77.6992265,50,Built-up
+Sub-Dist - Anekal,84.2,14.7,0.9,12.7090575,77.6992265,50,Built-up
+Sub-Dist - Anekal,90.3,9.1,0.3,12.7090575,77.6992265,50,Built-up
+Kannaikana Agrahara,62.3,34.2,2.9,12.84366,77.5532846,50,Built-up
+Bilwaradahalli,89.3,10.1,0.7,12.824728,77.5676735,20,Shrubland
+Bhoothanahalli,72.7,18.2,8.4,12.8057748,77.5582437,50,Built-up
+Bannerughatta Kaval,99.6,0.4,0,12.7920788,77.5633748,20,Shrubland
+Byrappanahalli,94.4,4.5,1.1,12.7867101,77.5691064,10,Tree cover
+Bannerughatta,97.4,2.1,0.3,12.8129424,77.58053,50,Built-up
+Gollahalli,42.6,2.1,0,12.8336587,77.6664976,40,Cropland
+Kalkere,90.5,8.1,1,13.0334934,77.673888,50,Built-up
+Vaderahalli,100,0,0,13.0958692,77.5375794,50,Built-up
+Laxmipura,68.4,23.5,8.1,22.3312315,73.1368045,50,Built-up
+Halesampigehalli,91.9,6.6,1.5,12.8104509,77.5918657,50,Built-up
+Mantapa,79.6,20.4,0,,,,
+Jangal Palya,97.7,2.3,0,12.8090323,77.5913482,50,Built-up
+Begihalli,68.1,30.2,1.1,12.7898222,77.6049218,40,Cropland
+Nallasandra,95.2,4.3,0.5,12.8011072,77.6049218,50,Built-up
+Hullukasavanahalli,94.9,5.1,0,12.819652,77.6092188,40,Cropland
+Sakalawara,94.2,5.8,0,12.8237617,77.6040597,10,Tree cover
+Hullahalli,76.4,18.5,5,12.0976392,76.5560481,50,Built-up
+Ramasandra,4.7,95.3,0,12.9378204,77.4694648,50,Built-up
+Harapanahalli,66.8,28.9,4.3,14.7809865,75.9869609,50,Built-up
+Bukkasagara,78.5,19.9,1.4,12.7731681,77.6106512,40,Cropland
+Kalbalu,89.8,10,0.2,12.7694016,77.6223614,50,Built-up
+Mahanthalingapura,68,19.2,12.7,12.7664553,77.6178125,50,Built-up
+Ragihalli,85.4,11.7,2.9,12.7394086,77.5751958,50,Built-up
+Shivanahalli,72.9,21.2,5.5,12.7234456,77.5751227,50,Built-up
+Kadajakkanahalli,50,50,0,12.7374171,77.6337703,50,Built-up
+Giddenahalli,76.2,22.8,0,12.9910718,77.4171237,10,Tree cover
+J.Bingipura,100,0,0,12.7533625,77.6242574,10,Tree cover
+Vaderamanchanahalli,89.2,4.6,5,12.7669972,77.6292697,10,Tree cover
+Koppa,76,23.4,0,13.532658,75.3557927,10,Tree cover
+Koppa Gate,85.7,13.8,0.5,12.7945296,77.614948,50,Built-up
+S.Bingipura,79.9,18.7,1.4,12.8269128,77.6317289,50,Built-up
+Hulimangala,88.3,11.7,0,12.8181898,77.6378619,50,Built-up
+Thirupalya,97.5,2.4,0.1,12.8223684,77.6664976,50,Built-up
+Yarandahalli,89.3,8.2,2.5,12.8112145,77.6693608,50,Built-up
+Vabasandra,74.7,25.3,0,12.8145672,77.6507489,50,Built-up
+Nanjapura,81.9,18.1,0,12.7970938,77.6392939,40,Cropland
+Kyalasanahalli,81.9,17.7,0.3,13.0600731,77.6580084,10,Tree cover
+Bande Nalla Sandra,96.6,2.8,0.6,12.7906494,77.6521807,60,Bare / sparse vegetation
+Haragadde,87.2,12.5,0.3,12.7637802,77.6507489,50,Built-up
+Mada Patna,97.2,2.8,0,12.7725318,77.6499455,50,Built-up
+Konasandra,87.3,12,0.7,12.7586705,77.6321339,40,Cropland
+Bommandahalli,73,24.1,0,12.750209,77.6321339,40,Cropland
+Nosenur Gollahalli,74.1,25,0.9,12.741534,77.6459761,50,Built-up
+Nosenur,76,21.7,0.4,12.7489379,77.650033,50,Built-up
+Dyavasandra,90.8,8.5,0.8,12.7537051,77.6464534,60,Bare / sparse vegetation
+Seethanaikana Halli,49.4,50.6,0,13.0041687,77.9417391,50,Built-up
+Rajapura,82.7,16.8,0,12.7768839,77.6743712,50,Built-up
+Masthena Halli,90.9,9.1,0,12.7864891,77.668645,20,Shrubland
+Hinnakki,66.6,32.8,0.7,12.7772211,77.6815285,50,Built-up
+Hennagara,95.2,4.4,0.3,12.7889092,77.6750869,40,Cropland
+Hosahalli,81.8,18.2,0,13.5367865,77.2472507,50,Built-up
+Kachanaikanahalli,93.4,6.4,0,12.8001179,77.6854582,50,Built-up
+Ramakrishnapura,87.9,12.1,0,12.7824295,77.6947682,50,Built-up
+Choodasandra,98.3,1.5,0,12.88563,77.6805328,50,Built-up
+Rayasandra,77.9,20.5,1.1,12.8622826,77.6751531,50,Built-up
+Sriramapura,67.7,31.5,0,12.2716479,76.6253865,30,Grassland
+Gattahalli,73.7,26.3,0,12.8683625,77.7029183,50,Built-up
+Janatha Colony,91.7,8.3,0,12.9087058,77.7008509,60,Bare / sparse vegetation
+Chikkanagamangala,80.8,17,2.2,12.8600843,77.6959073,50,Built-up
+Bhovi Palya (Shanthi Pur),87.7,12.1,0.1,12.8534402,77.6843781,50,Built-up
+Gulimangala,42.6,56.2,1.1,12.8449614,77.6965573,10,Tree cover
+Huskur,77.1,22.4,0,12.8581406,77.7065754,40,Cropland
+Avalahalli,85.8,14.2,0,12.9456895,77.5440288,50,Built-up
+Chokkasandra,75,25,0,13.0389508,77.515362,50,Built-up
+Harohalli,97.1,2.9,0,12.6815831,77.4731876,50,Built-up
+Kaggalipura,100,0,0,12.2751499,76.890797,10,Tree cover
+Chintalmadivala,97.2,2.3,0.5,12.8457727,77.7137306,40,Cropland
+Gottamaranahalli,100,0,0,12.8441583,77.7094375,20,Shrubland
+Singena Agrahara,89.8,9.2,0.3,12.8344795,77.7137306,40,Cropland
+Narayanaghatta,77,22.6,0.4,12.8364983,77.7266088,50,Built-up
+Muthanallur,73.1,26,0.7,12.8318119,77.7350006,50,Built-up
+Ali Bommasandra,76.3,23.7,0,12.8160884,77.7348946,50,Built-up
+Muthanallur Amanikere,89.9,10.1,0,12.8230558,77.7409162,40,Cropland
+Samanahalli,62.5,37.5,0,12.8329038,77.7477116,50,Built-up
+Chikkathimmasandra,40,60,0,12.8451759,77.7435904,50,Built-up
+Gopasandra,85.4,13.4,1.2,12.845136,77.7434537,50,Built-up
+Kommasandra,92.2,7.8,0,12.8606511,77.7409912,50,Built-up
+Thigala Chowdadenahalli,92,7.9,0,12.8832722,77.7523242,50,Built-up
+Chikkavaderapura,93.8,0,6.2,12.8966148,77.7437775,40,Cropland
+Heggondahalli,70.2,21.9,4,,,,
+Halasahalli Thippasandra,63.1,36.9,0,12.9151812,77.7480692,20,Shrubland
+Chikkanekkundi,74.2,24.9,0.5,12.9332179,77.7709558,50,Built-up
+Nekkundi Dommasandra,56.6,39.8,3.1,12.9263558,77.7752465,10,Tree cover
+Kathriguppe,22.9,73.2,3.9,12.9293653,77.5569265,50,Built-up
+Ramnaikanahalli,72.3,27.7,0,12.9098211,77.7566806,50,Built-up
+Chambenahalli,90.9,8.4,0.8,12.8830361,77.7602227,50,Built-up
+Yamare,88,11.3,0.7,12.870523,77.7595131,30,Grassland
+Sompura,81.7,12.7,5.6,12.8713766,77.7666865,50,Built-up
+Kadagrahara,68.1,29.6,2.3,13.0706708,77.7105873,50,Built-up
+B.Hosahalli,54.9,44.1,1,12.9227633,77.756772,50,Built-up
+Bikkanahalli,50.9,44.8,3.8,12.8368056,77.7593143,50,Built-up
+Sollepura,62.9,36.5,0.6,12.6080358,76.9902276,10,Tree cover
+Handenahalli,78.4,20.5,1.1,12.825765,77.7668646,50,Built-up
+Kotiganahalli,88.9,11.1,0,13.0730841,78.2219806,40,Cropland
+S.Medihalli,89.2,8.6,2.2,12.8222466,77.7838274,30,Grassland
+Tyayakana Halli,89.5,10.1,0.4,12.8276254,77.7781069,60,Bare / sparse vegetation
+Adigarakallahalli,80.3,19.5,0,12.8215713,77.7995573,40,Cropland
+Billapura,74.2,25.2,0.6,12.8393226,77.7866875,50,Built-up
+Buragunte,81.3,18.2,0.5,12.8416097,77.7752465,60,Bare / sparse vegetation
+Ittangur,90.5,8.8,0.7,12.8748183,77.7866781,50,Built-up
+Volagerekallahalli,67.4,31.9,0.3,12.8892105,77.7738188,50,Built-up
+Chikkadasarahalli,84.9,15.1,0,12.8927194,77.7809672,40,Cropland
+Gonighattapura,60.5,39.5,0,12.9136431,77.7878799,50,Built-up
+Neriga,89.6,10.1,0,12.9115545,77.7759616,50,Built-up
+Janthagondanahalli,75.3,21.3,2.7,12.92407,77.7866875,50,Built-up
+Nagen Agrahara,100,0,0,12.9220518,77.7888326,20,Shrubland
+Seeganaikanahalli,64.3,35.7,0,13.1489682,77.553344,40,Cropland
+Madappanahalli,63.6,36.4,0,13.1537852,77.5361462,50,Built-up
+Deshapande Guttahalli,7.7,92.3,0,12.919631,77.8124255,10,Tree cover
+Banahalli,71.6,26.5,2,12.9511075,78.0937171,40,Cropland
+Mugalur,93.1,6.9,0,12.8935929,77.8220758,50,Built-up
+Kugur,57.4,39.5,3.2,12.9110186,77.8095661,60,Bare / sparse vegetation
+Kamanahalli,91.6,8.4,0,12.9079572,77.797055,50,Built-up
+Kuthaganahalli,68.5,31.1,0.4,12.888969,77.8032331,50,Built-up
+Doddathimmasandra,65,35,0,12.8794015,77.7981274,20,Shrubland
+Thindlu,73.3,26.3,0.4,13.0714902,77.5689097,50,Built-up
+Mahal Chowdadenahalli,78.3,20.8,0,12.872852,77.8084265,50,Built-up
+Gudighattanahalli,58.3,41.7,0,12.8689474,77.8226098,60,Bare / sparse vegetation
+Panditana Agrahara,83.2,15.8,1.1,12.8804754,77.8210036,40,Cropland
+Mattanahalli,82.1,17.9,0,12.871761,77.8296051,50,Built-up
+Gollahalli,97,2.8,0.1,12.8336587,77.6664976,40,Cropland
+Veerasandra,94.5,2.2,2.7,12.7598571,77.4803345,50,Built-up
+Kammasandra,96.1,3.2,0.4,12.834002,77.688267,50,Built-up
+Vaddara Palya,94.6,2.8,2.5,12.8358959,77.7001385,40,Cropland
+Andapura,94.4,5.3,0,12.8268143,77.7008509,10,Tree cover
+Ramasagara,76.5,22.8,0.4,12.8221131,77.7208853,40,Cropland
+Heelalige,91.5,8.5,0,12.818616,77.7065754,50,Built-up
+Chandapura,89.1,10.6,0.3,12.8017099,77.7116112,50,Built-up
+Chandrapura  -Chatrakane,95.1,3.8,1.1,12.8016811,77.7065754,50,Built-up
+Kittaganahalli,79.8,19.8,0.3,12.8028665,77.6965621,60,Bare / sparse vegetation
+Banahalli,88.4,11.3,0.3,12.9511075,78.0937171,40,Cropland
+Iggalur,95.1,4.6,0.2,12.7831358,77.702282,40,Cropland
+Thirumagondanahalli,80.9,18.4,0.7,12.7895871,77.7194544,50,Built-up
+Balagaranahalli,96.4,3.1,0.3,12.785488,77.7373396,50,Built-up
+Neralur,95,4.9,0.1,12.7950301,77.7301859,50,Built-up
+Laxmi Sagara,71.4,28.2,0.4,12.8124354,77.725178,10,Tree cover
+Bendiganahalli,97.8,2.2,0,13.0714221,77.7487845,40,Cropland
+Adigondanahalli,60.1,38.9,0.3,12.8123014,77.7523608,60,Bare / sparse vegetation
+Guddahatti,66.1,30.5,3.4,12.8033462,77.7423688,50,Built-up
+Yadavanahalli,94.6,5.2,0.1,12.7897202,77.7523608,50,Built-up
+Krishnasagara,68.8,29.4,1.8,12.7811193,77.7494998,60,Bare / sparse vegetation
+Itchangur,86,14,0,12.7722512,77.7409162,40,Cropland
+Muthasandra,30.2,68.2,1.6,12.9286464,77.7938376,60,Bare / sparse vegetation
+Kamblipura,80.6,19.4,0,12.7595308,77.7431655,50,Built-up
+Mayasandra,65.4,34.1,0.4,13.6405659,76.9729472,50,Built-up
+M.Medihalli,41.4,58.6,0,12.7297975,77.7380549,40,Cropland
+Halehalli,96.4,3.6,0,13.0346638,77.704174,50,Built-up
+Kodlipura,60.5,38.9,0.5,12.740673,77.7595131,40,Cropland
+Dasanapura,73.2,24.6,2.3,13.0700786,77.4291142,60,Bare / sparse vegetation
+Bhaktipura,85.4,7.3,7.3,12.7541748,77.7616587,10,Tree cover
+Arehalli,88,10.5,1.4,13.0461574,75.8075719,50,Built-up
+Manchanahalli,88.1,11.6,0,12.5196633,76.4042404,10,Tree cover
+Jigala,87.4,11.2,1.4,12.7971116,77.7595131,40,Cropland
+Arenur,77.8,22.2,0,12.8105516,77.7752465,60,Bare / sparse vegetation
+Bidaraguppe,86.9,11.6,1.3,12.8061961,77.7843605,50,Built-up
+Chikkanahalli,86.8,13.2,0,12.7871594,77.7881176,40,Cropland
+Indlabele,88.1,11.5,0.3,12.7905559,77.7777493,50,Built-up
+Ballur,90.9,8.2,0.5,16.400358,75.5451379,20,Shrubland
+Maranaikanahalli,80.1,19.3,0,13.1696114,77.643576,40,Cropland
+Lingapura,50.6,48.8,0,12.7606957,77.6750869,40,Cropland
+Soppahalli,97.5,2.5,0,12.7425624,77.6793813,40,Cropland
+Kumbaranahalli,63.8,35.1,1.1,12.749108,77.661129,10,Tree cover
+Suragajakkanahalli,82.6,17.4,0,12.7363832,77.6679292,40,Cropland
+Sonnanayakanapura,85.3,14,0.7,12.7334728,77.6561875,50,Built-up
+Adur,78.3,21,0.6,50.8348175,-0.3101263,40,Cropland
+Thimmasandra,52.5,47.5,0,13.1670664,77.5762703,10,Tree cover
+Chikkanahalli,47.8,52.2,0,12.7871594,77.7881176,40,Cropland
+Indlawadi,77.8,21.6,0.4,12.7284696,77.638648,50,Built-up
+Bagganadoddi,74.3,25.7,0,12.7226759,77.6163803,40,Cropland
+Indlawadipura,48.1,51.9,0,12.7156256,77.6400763,50,Built-up
+Thammanaikanahalli,66.7,33.1,0.2,12.6976017,77.64098,50,Built-up
+Chikka Hosahalli,77.4,22.3,0.4,12.7048562,77.6445929,50,Built-up
+Agasa Thimmanahalli,20,80,0,12.7120767,77.6607711,60,Bare / sparse vegetation
+A Medihalli,61.5,38.5,0,12.7126142,77.6722239,40,Cropland
+Gowrenahalli,72.7,26.8,0.2,12.7209395,77.6693608,40,Cropland
+Honnakalasapura,73.1,25,1.9,12.7241628,77.6779499,40,Cropland
+Sidihosakote,75.7,23.9,0.4,12.730072,77.6836756,40,Cropland
+Kempavaderahalli,82.1,17.9,0,12.7359815,77.689401,60,Bare / sparse vegetation
+Dodda Hagade,55.3,43.9,0.8,12.7472641,77.689401,50,Built-up
+Kunmadivala,97,3,0,12.747533,77.695126,60,Bare / sparse vegetation
+Byagadadenahalli,72.7,26.2,1.1,12.7524361,77.7019242,50,Built-up
+Marasur,84.6,15.4,0,12.7662063,77.702282,40,Cropland
+Naganaikanahalli,71.2,28.8,0,12.7659373,77.6965573,40,Cropland
+Madivala,77.1,22,0.8,12.9226373,77.6174442,50,Built-up
+Bandapura,93.1,6.4,0.4,13.044899,77.7383516,50,Built-up
+Marasur Agrahara,100,0,0,12.7604283,77.7294705,40,Cropland
+Thattanahalli,75.3,24.7,0,12.7390684,77.725178,40,Cropland
+Avadadenahalli,84.7,15.3,0,12.7472304,77.7112263,50,Built-up
+Kammasandra Agrahara,75.5,24.5,0,12.7393392,77.7008509,40,Cropland
+Amani Doddakere,91.2,7.8,1,12.7283931,77.6929792,40,Cropland
+Hasaruvani,100,0,0,12.7189254,77.6865383,10,Tree cover
+Anekal (Rural),84.9,14.8,0.2,12.6995884,77.695126,40,Cropland
+Chudenahalli,36.4,63.6,0,13.2105592,77.6264055,50,Built-up
+Sunavara,66.4,33.2,0.4,12.7032507,77.6839846,40,Cropland
+Patnagere Gollahalli,40,60,0,12.6846877,77.6779499,30,Grassland
+Bidarakadahalli,100,0,0,13.0613596,77.7158771,50,Built-up
+Kalanaikanahalli,49.4,49.4,1.1,12.6738131,77.6865383,30,Grassland
+Solur,53.9,46.1,0,,,,
+Menasiganahalli,41.7,58.3,0,12.5765097,77.296542,30,Grassland
+Vanakanahalli,84,15.4,0.3,12.6724022,77.6940526,50,Built-up
+Singasandra,48.6,48.6,2.9,12.8811382,77.6493839,50,Built-up
+Telagarahalli,49,50.3,0.7,12.6866999,77.6908323,40,Cropland
+Hompalaghatta,79.4,19.1,1.5,12.6928739,77.702282,40,Cropland
+Gudnahalli,44.8,54.6,0,12.6826642,77.725178,20,Shrubland
+Geratiganabele,38.6,60.9,0.5,12.6775583,77.7366242,10,Tree cover
+Submangala,55.6,43.9,0.5,12.6942097,77.7309012,10,Tree cover
+Muthagatti,77.2,22.2,0.2,12.6978387,77.7180235,60,Bare / sparse vegetation
+Kurubarahatti,0,100,0,12.7061648,77.7151616,40,Cropland
+Haldenahalli,93.9,5.8,0.3,12.7178492,77.708722,50,Built-up
+Kaval Hosahalli,95.5,4.5,0,12.7226843,77.7065754,40,Cropland
+Chikka Hagade,73.3,26.7,0,12.7323547,77.702282,40,Cropland
+Aravantigepura,67.3,32.7,0,12.7371891,77.7151616,50,Built-up
+Bestammanahalli,70.6,28.9,0.5,12.7303371,77.7269665,50,Built-up
+Karpur,84.5,15.5,0,12.7260405,77.7180235,40,Cropland
+Bidaragere,34.5,64,1.5,12.7108628,77.725178,40,Cropland
+Rachamanahalli,57.6,39.1,3.3,12.7170379,77.7366242,50,Built-up
+Channena Agrahara,35.6,64.4,0,12.7057566,77.7366242,40,Cropland
+Samandur,76.9,22.1,0.6,12.7146822,77.7541489,50,Built-up
+Dommasandra (CT),84,15.8,0.2,41.6032207,-73.087749,30,Grassland
+Dommasandra (CT) - Ward No.1,84,15.8,0.2,12.8796531,77.7536195,50,Built-up
+Hebbagodi (CT),96.7,3,0.1,12.8257264,77.6780035,50,Built-up
+Hebbagodi (CT) - Ward No.1,96.7,3,0.1,12.8257264,77.6780035,50,Built-up
+Maragondahalli (CT),85.3,12.8,0.6,41.6032207,-73.087749,30,Grassland
+Maragondahalli (CT) - Ward No.1,85.3,12.8,0.6,12.8247842,77.6579077,50,Built-up
+Bommasandra (CT),95.3,4.1,0.1,41.6032207,-73.087749,30,Grassland
+Bommasandra (CT) - Ward No.1,95.3,4.1,0.1,12.8167303,77.6974369,50,Built-up
+Sarjapura (CT),92.2,7.4,0.3,12.8575579,77.7864057,50,Built-up
+Sarjapura (CT) - Ward No.1,92.2,7.4,0.3,12.8575579,77.7864057,50,Built-up
+Attibele (CT),87.6,12.2,0.2,12.778963,77.7702029,50,Built-up
+Attibele (CT) - Ward No.1,87.6,12.2,0.2,12.778963,77.7702029,50,Built-up
+Jigani (CT),95.1,4.3,0.3,12.7791043,77.6435979,50,Built-up
+Jigani (CT) - Ward No.1,95.1,4.3,0.3,12.7791043,77.6435979,50,Built-up
+Anekal (TMC),84,15.2,0.6,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.1,58.3,36.5,4.2,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.2,85.7,14.1,0.2,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.3,81.1,18.9,0,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.4,96.1,3.8,0.2,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.5,100,0,0,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.6,99.8,0.2,0,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.7,97.7,2.3,0,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.8,97.9,1.8,0.1,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.9,90,6.5,3.5,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.10,90.1,9.6,0.3,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.11,89.8,9.8,0,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.12,87.1,12.7,0,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.13,82.6,17.2,0,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.14,63.8,36.2,0,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.15,65.8,32.9,1,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.16,85.7,14,0.3,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.17,86.8,13.2,0,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.18,61.9,37.1,0,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.19,31.2,67.4,1.1,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.20,76.4,22.6,0.4,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.21,90.2,9.5,0.3,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.22,72.6,25.7,1.4,12.7090575,77.6992265,50,Built-up
+Anekal (TMC) - Ward No.23,77.9,21.6,0,12.7090575,77.6992265,50,Built-up
+Sub-Dist - Area not under any Sub-district,94.3,4.8,0.6,,,,
+Sub-Dist - Area not under any Sub-district,94.3,4.8,0.6,,,,
+BBMP (M Corp. + OG),94.3,4.8,0.6,,,,
+BBMP (M Corp. + OG) - Ward No.1,95.9,3.2,0.6,,,,
+BBMP (M Corp. + OG) - Ward No.2,92,7,0.7,,,,
+BBMP (M Corp. + OG) - Ward No.3,95.1,3.7,1.1,,,,
+BBMP (M Corp. + OG) - Ward No.4,93.8,5.4,0.6,,,,
+BBMP (M Corp. + OG) - Ward No.5,94.3,3.6,1.5,,,,
+BBMP (M Corp. + OG) - Ward No.6,92.7,6,1.1,,,,
+BBMP (M Corp. + OG) - Ward No.7,91.8,7.1,0.9,,,,
+BBMP (M Corp. + OG) - Ward No.8,93,5.5,1.2,,,,
+BBMP (M Corp. + OG) - Ward No.9,96.5,2.5,0.8,,,,
+BBMP (M Corp. + OG) - Ward No.10,94.4,5.4,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.11,90.2,9,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.12,95.2,4.3,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.13,96.5,3.1,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.14,95.8,3.8,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.15,95.9,3.8,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.16,88.9,10.6,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.17,93.9,4.2,1.6,,,,
+BBMP (M Corp. + OG) - Ward No.18,93.8,4.3,1.3,,,,
+BBMP (M Corp. + OG) - Ward No.19,95.6,4,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.20,92.6,6.4,0.6,,,,
+BBMP (M Corp. + OG) - Ward No.21,94.3,5.4,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.22,93.8,5.1,0.9,,,,
+BBMP (M Corp. + OG) - Ward No.23,91.6,7.9,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.24,91.4,6.1,2.1,,,,
+BBMP (M Corp. + OG) - Ward No.25,94.1,5.1,0.6,,,,
+BBMP (M Corp. + OG) - Ward No.26,93.7,5.2,0.7,,,,
+BBMP (M Corp. + OG) - Ward No.27,95.2,4.4,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.28,93.1,6.1,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.29,95.9,3.6,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.30,93.8,5.2,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.31,95.9,3.6,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.32,97.1,2.3,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.33,94.9,4.4,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.34,95.3,4.4,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.35,95.1,4.4,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.36,94.6,3.8,1,,,,
+BBMP (M Corp. + OG) - Ward No.37,95.7,3.9,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.38,79,14.7,2.4,,,,
+BBMP (M Corp. + OG) - Ward No.39,95.2,3,1.7,,,,
+BBMP (M Corp. + OG) - Ward No.40,96.2,3.3,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.41,97.3,1.9,0.7,,,,
+BBMP (M Corp. + OG) - Ward No.42,95.3,3.2,1.4,,,,
+BBMP (M Corp. + OG) - Ward No.43,95.7,3.6,0.7,,,,
+BBMP (M Corp. + OG) - Ward No.44,95.2,3.8,0.8,,,,
+BBMP (M Corp. + OG) - Ward No.45,92.3,7.3,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.46,96.1,3.5,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.47,89.5,9.2,1.1,,,,
+BBMP (M Corp. + OG) - Ward No.48,96.8,2.9,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.49,92,7.3,0.7,,,,
+BBMP (M Corp. + OG) - Ward No.50,86.6,10.5,2.7,,,,
+BBMP (M Corp. + OG) - Ward No.51,93.5,5.9,0.5,,,,
+BBMP (M Corp. + OG) - Ward No.52,95.4,3.9,0.6,,,,
+BBMP (M Corp. + OG) - Ward No.53,94.7,4.6,0.5,,,,
+BBMP (M Corp. + OG) - Ward No.54,93.1,5.7,0.8,,,,
+BBMP (M Corp. + OG) - Ward No.55,94.3,5.1,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.56,94,4.5,1.4,,,,
+BBMP (M Corp. + OG) - Ward No.57,91.3,4.2,2.6,,,,
+BBMP (M Corp. + OG) - Ward No.58,94.4,2.6,2.8,,,,
+BBMP (M Corp. + OG) - Ward No.59,94.2,5.3,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.60,90.3,8.4,1.2,,,,
+BBMP (M Corp. + OG) - Ward No.61,91.6,6.9,0.5,,,,
+BBMP (M Corp. + OG) - Ward No.62,92.6,6.2,1.1,,,,
+BBMP (M Corp. + OG) - Ward No.63,89.4,9.1,1.5,,,,
+BBMP (M Corp. + OG) - Ward No.64,95.8,4,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.65,98.5,1.3,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.66,97.5,2.1,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.67,96.2,3.6,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.68,96.8,2.9,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.69,95.1,3.7,1,,,,
+BBMP (M Corp. + OG) - Ward No.70,94,3.9,0.8,,,,
+BBMP (M Corp. + OG) - Ward No.71,93.5,5.7,0.7,,,,
+BBMP (M Corp. + OG) - Ward No.72,96,2.3,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.73,95.3,3.5,1,,,,
+BBMP (M Corp. + OG) - Ward No.74,89.8,9.5,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.75,94.5,4.2,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.76,98.5,1.2,0,,,,
+BBMP (M Corp. + OG) - Ward No.77,93.3,6.1,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.78,92.5,7.2,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.79,84.3,14.2,1,,,,
+BBMP (M Corp. + OG) - Ward No.80,90.8,8.6,0.5,,,,
+BBMP (M Corp. + OG) - Ward No.81,95.3,3.6,0.9,,,,
+BBMP (M Corp. + OG) - Ward No.82,92.4,6.4,1.1,,,,
+BBMP (M Corp. + OG) - Ward No.83,91.2,7.7,0.9,,,,
+BBMP (M Corp. + OG) - Ward No.84,92.5,6.5,0.8,,,,
+BBMP (M Corp. + OG) - Ward No.85,93.4,5.9,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.86,92.7,6.1,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.87,96.2,3.3,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.88,88.9,10.4,0.5,,,,
+BBMP (M Corp. + OG) - Ward No.89,94.1,5.5,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.90,92.9,6.7,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.91,92.6,6.6,0.5,,,,
+BBMP (M Corp. + OG) - Ward No.92,95,4.7,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.93,97.3,1.7,1,,,,
+BBMP (M Corp. + OG) - Ward No.94,87.4,10,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.95,88.1,10.7,0.9,,,,
+BBMP (M Corp. + OG) - Ward No.96,93.2,6.2,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.97,94.6,5.2,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.98,99.1,0.8,0,,,,
+BBMP (M Corp. + OG) - Ward No.99,98,1.7,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.100,98,1.9,0,,,,
+BBMP (M Corp. + OG) - Ward No.101,96.9,2.7,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.102,95.4,4.2,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.103,98,1.7,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.104,92.7,7,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.105,95.9,3.3,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.106,98,1.5,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.107,96.3,3.5,0,,,,
+BBMP (M Corp. + OG) - Ward No.108,96.9,2.9,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.109,96.9,2.5,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.110,97.6,1.8,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.111,96.3,3.5,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.112,89.8,9.2,0.8,,,,
+BBMP (M Corp. + OG) - Ward No.113,93.8,3.8,2.1,,,,
+BBMP (M Corp. + OG) - Ward No.114,89,10,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.115,95.2,4.5,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.116,92.6,6.8,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.117,92.5,7,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.118,92.2,6.6,1,,,,
+BBMP (M Corp. + OG) - Ward No.119,94.7,4.1,1,,,,
+BBMP (M Corp. + OG) - Ward No.120,93.4,6.4,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.121,95.5,4.2,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.122,96.5,2.6,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.123,95.2,4.5,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.124,92.9,6.1,0.6,,,,
+BBMP (M Corp. + OG) - Ward No.125,97,2.7,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.126,95.5,4.2,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.127,94.7,4.8,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.128,94.2,4.8,0.9,,,,
+BBMP (M Corp. + OG) - Ward No.129,96.3,3,0.5,,,,
+BBMP (M Corp. + OG) - Ward No.130,92.9,4.6,1.8,,,,
+BBMP (M Corp. + OG) - Ward No.131,87,3.7,8.9,,,,
+BBMP (M Corp. + OG) - Ward No.132,97.5,2.1,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.133,94.8,3.6,1.4,,,,
+BBMP (M Corp. + OG) - Ward No.134,97.1,2.5,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.135,95.5,4.2,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.136,90.9,8.7,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.137,94.7,4.7,0.5,,,,
+BBMP (M Corp. + OG) - Ward No.138,87,12.5,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.139,88.9,10.6,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.140,93,6.4,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.141,93.6,6.1,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.142,96.2,3.4,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.143,96.4,3.3,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.144,84.5,15,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.145,97.6,1.9,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.146,97,2.6,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.147,94.8,4,1,,,,
+BBMP (M Corp. + OG) - Ward No.148,96.9,2.4,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.149,91.9,7.2,0.8,,,,
+BBMP (M Corp. + OG) - Ward No.150,93.9,5.2,0.7,,,,
+BBMP (M Corp. + OG) - Ward No.151,94.4,4.9,0.6,,,,
+BBMP (M Corp. + OG) - Ward No.152,96.1,3.4,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.153,90.5,8.3,1,,,,
+BBMP (M Corp. + OG) - Ward No.154,95.6,4,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.155,96.6,3.2,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.156,97.5,2.3,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.157,91,5.7,3.1,,,,
+BBMP (M Corp. + OG) - Ward No.158,89.8,5.9,4.2,,,,
+BBMP (M Corp. + OG) - Ward No.159,94,4.7,0.5,,,,
+BBMP (M Corp. + OG) - Ward No.160,94.2,4.6,1,,,,
+BBMP (M Corp. + OG) - Ward No.161,95.6,4,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.162,97.4,2.3,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.163,96.9,2.7,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.164,94.8,4.8,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.165,96.6,2.6,0.5,,,,
+BBMP (M Corp. + OG) - Ward No.166,92,7.6,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.167,96.8,3,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.168,98,1.7,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.169,94.6,4.6,0.6,,,,
+BBMP (M Corp. + OG) - Ward No.170,93.5,5.7,0.6,,,,
+BBMP (M Corp. + OG) - Ward No.171,97.9,1.9,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.172,95.5,4.1,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.173,95.7,3.6,0.5,,,,
+BBMP (M Corp. + OG) - Ward No.174,95.7,3.4,0.7,,,,
+BBMP (M Corp. + OG) - Ward No.175,92.7,6.4,0.8,,,,
+BBMP (M Corp. + OG) - Ward No.176,92.9,6.5,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.177,91.6,8.2,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.178,97.9,1.8,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.179,94.6,4.6,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.180,93.1,6.1,0.7,,,,
+BBMP (M Corp. + OG) - Ward No.181,95.4,4.3,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.182,96.1,2.7,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.183,96.5,3.1,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.184,95.3,3.5,1,,,,
+BBMP (M Corp. + OG) - Ward No.185,95,4.7,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.186,97.5,2.1,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.187,95.3,3.8,0.6,,,,
+BBMP (M Corp. + OG) - Ward No.188,93.2,6.3,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.189,96.2,3,0.6,,,,
+BBMP (M Corp. + OG) - Ward No.190,94.9,4,0.3,,,,
+BBMP (M Corp. + OG) - Ward No.191,96.4,3.1,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.192,94.1,5.3,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.193,95.9,3.5,0.4,,,,
+BBMP (M Corp. + OG) - Ward No.194,94.6,4,1,,,,
+BBMP (M Corp. + OG) - Ward No.195,95.6,4.1,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.196,90.4,8.6,0.8,,,,
+BBMP (M Corp. + OG) - Ward No.197,94,4.9,1,,,,
+BBMP (M Corp. + OG) - Ward No.198,94.2,4.9,0.7,,,,
+BBMP (M Corp. + OG) - Ward No.199,96.9,2.7,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.200,95.1,3.2,1.5,,,,
+BBMP (M Corp. + OG) - Ward No.202,97.6,2,0.1,,,,
+BBMP (M Corp. + OG) - Ward No.203,97.1,2.6,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.204,95.7,4,0.2,,,,
+BBMP (M Corp. + OG) - Ward No.205,93.8,3.1,2.9,,,,
+BBMP (M Corp. + OG) - Ward No.206,89.1,9.7,1.1,,,,
+BBMP (M Corp. + OG) - Ward No.207,92.7,6.1,0.8,,,,
+BBMP (M Corp. + OG) - Ward No.208,95.6,3.9,0.6,,,,
+BBMP (M Corp. + OG) - Ward No.209,100,0,0,,,,
